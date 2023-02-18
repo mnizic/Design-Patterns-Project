@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mnizic_zadaca_3": {
+      "commandName": "Project",
+      "commandLineArgs": "-b C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_brod.csv -l C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_luka.csv -v C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_vez.csv -r C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_raspored.csv -m C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_mol.csv -mv C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_mol_vez.csv -k C:\\Users\\mnizi\\mnizic_zadaca_3\\podaci\\DZ_3_kanal.csv -br 36 -vt 75:25 -pd P:R"
+    }
+  }
+}
